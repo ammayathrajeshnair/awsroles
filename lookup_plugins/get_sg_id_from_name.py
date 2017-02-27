@@ -9,7 +9,7 @@ try:
     import boto
     import boto.ec2
 except ImportError:
-    raise AnsibleError("get_sg_id_from_name lookup cannot be run without boto installed")
+    raise AnsibleError("get_sg_id_from_name lookup cannot be run without boto installed ")
 
 class LookupModule(LookupBase):
 
