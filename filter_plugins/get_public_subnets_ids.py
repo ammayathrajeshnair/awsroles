@@ -8,7 +8,8 @@ USAGE:
 
 class FilterModule(object):
     def filters(self):
-        return {
+        return 
+       {
             'get_public_subnets_ids': get_public_subnets_ids,
         }
 
