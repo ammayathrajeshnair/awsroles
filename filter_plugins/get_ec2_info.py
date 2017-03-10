@@ -12,6 +12,7 @@ public_ip
 private_ip
 '''
 
+
 class FilterModule(object):
     def filters(self):
         return {
