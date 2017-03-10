@@ -7,7 +7,7 @@ The purpose of these Ansible roles are to create the complete infrastructure ove
 - ELB 
 
 
-I have also written so really small plugins to get the desired information.
+I have also written so really small plugins to get the desired information .
 
 Requirement to use these roles:
 
